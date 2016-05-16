@@ -69,9 +69,10 @@ Terminology
 
 Current build status
 ====================
+
 Linux: [![Circle CI](https://circleci.com/gh/conda-forge/bob.ip.optflow.hornschunck-feedstock.svg?style=svg)](https://circleci.com/gh/conda-forge/bob.ip.optflow.hornschunck-feedstock)
 OSX: [![TravisCI](https://travis-ci.org/conda-forge/bob.ip.optflow.hornschunck-feedstock.svg?branch=master)](https://travis-ci.org/conda-forge/bob.ip.optflow.hornschunck-feedstock) 
-Windows: [![AppVeyor](https://ci.appveyor.com/api/projects/status/github/conda-forge/bob.ip.optflow.hornschunck-feedstock?svg=True)](https://ci.appveyor.com/project/conda-forge/bob.ip.optflow.hornschunck-feedstock/branch/master)
+Windows: [![AppVeyor](https://ci.appveyor.com/api/projects/status/github/conda-forge/bob-ip-optflow-hornschunck-feedstock?svg=True)](https://ci.appveyor.com/project/conda-forge/bob-ip-optflow-hornschunck-feedstock/branch/master)
 
 Current release info
 ====================
