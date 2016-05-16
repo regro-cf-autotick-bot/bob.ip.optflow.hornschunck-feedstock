@@ -25,6 +25,7 @@ requirements:
     - bob.io.base
     - bob.ip.color
     - scipy
+    - pkg-config
 
   run:
     - python
