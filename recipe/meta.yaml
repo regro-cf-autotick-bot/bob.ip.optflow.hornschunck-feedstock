@@ -1,4 +1,4 @@
-{% set version = "2.0.7" %}
+{% set version = "2.0.9" %}
 
 package:
   name: bob.ip.optflow.hornschunck
@@ -6,7 +6,7 @@ package:
 
 source:
   fn: bob.ip.optflow.hornschunck-{{ version }}.zip
-  md5: d7421b83072fb263d01cf5dde6f69cca
+  md5: 9aa891e308b7b24945786a6038de37d0
   url: https://pypi.io/packages/source/b/bob.ip.optflow.hornschunck/bob.ip.optflow.hornschunck-{{ version }}.zip
 
 build:
@@ -51,7 +51,7 @@ test:
     - nose
 
 about:
-  home: https://github.com/bioidiap/bob.ip.optflow.hornschunck
+  home: https://www.idiap.ch/software/bob/
   license: GNU General Public License v3 (GPLv3)
   summary: Python bindings to the optical flow framework of Horn & Schunck
 
