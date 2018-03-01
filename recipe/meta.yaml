@@ -1,4 +1,4 @@
-{% set version = "2.0.10" %}
+{% set version = "2.0.13" %}
 
 package:
   name: bob.ip.optflow.hornschunck
@@ -6,7 +6,7 @@ package:
 
 source:
   fn: bob.ip.optflow.hornschunck-{{ version }}.zip
-  md5: ac7858906b7c71d4cea4c83a50171794
+  md5: 7c91bc64f79293c6c35594e97898aac3
   url: https://pypi.io/packages/source/b/bob.ip.optflow.hornschunck/bob.ip.optflow.hornschunck-{{ version }}.zip
 
 build:
